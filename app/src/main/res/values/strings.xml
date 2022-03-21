@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ThuongKi2</string>
+        <string-array name="dvct">
+            <item>Vườn cau</item>
+            <item>Vườn mít</item>
+            <item>Vườn ổi</item>
+            <item>Vườn xoài</item>
+            <item>Vườn sầu riêng</item>
+            <item>Vườn nho</item>
+            <item>Vườn chôm chôm</item>
+            <item>Vườn mãn cầu gai</item>
+        </string-array>
+</resources>
